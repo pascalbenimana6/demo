@@ -3,3 +3,4 @@ bin/
 bin2/
 bin3/
 bin4/
+*.class
