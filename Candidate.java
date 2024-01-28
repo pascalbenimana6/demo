@@ -1,7 +1,7 @@
 class Candidate{
 	private int id;
 	private String email;
-	private Address address;
+	//private Address address;
 	public static void main(String args[]){
 		int a = 12;
 		int b = 3;
